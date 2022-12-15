@@ -211,6 +211,7 @@ body {
   z-index: 2;
   color: var(--clr-primary);
   font-size: 2rem;
+  cursor: pointer;
   animation: bounce 2s ease infinite;
 }
 .navbar {
